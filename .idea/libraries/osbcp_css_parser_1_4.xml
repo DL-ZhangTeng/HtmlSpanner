@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="osbcp-css-parser-1.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/htmlSpanner/libs/osbcp-css-parser-1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
